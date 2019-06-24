@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :question do
-    resources :answer
+  resources :questions do
+    resources :answers
   end
 end
