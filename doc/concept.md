@@ -6,6 +6,7 @@ virtual tutor
 
 - yahoo知恵袋などの掲示板で、数学や理科の質問をするという文化が根づいているが、その際に必要な**数式**は質問者・回答者ともに表記がまちまちで伝わりにくい
   - そもそも、plainな数式は見づらい
+![こうしたい](https://i.imgur.com/VdD4ldE.jpg)
   - 家庭教師は、「この問題はどう解くのか？」という質問への回答が主な仕事なので、家庭教師をwebに置き換えることができるはず
 - 専門的な数学・科学などは質問に答えられる人が限られていて、身近にいない場合が多い。現状のyahoo知恵袋だと、回答した人のBackgroundがわからないため、回答が正しいかわからない
 - 上記のような質問に答えられる（と思われる）大学院生は、研究に時間を取られてしまい家庭教師などのアルバイトに時間を当てにくい
@@ -36,7 +37,4 @@ virtual tutor
 
 
 ## Wireframe of key flows (主な流れのワイヤーフレーム）
-TODO
-
-* 手書きでもOK!
-* Or you can use a tool like [Figma](https://www.figma.com/), [Sketch](https://www.sketch.com/), etc
+![ワイヤーフレーム](https://i.imgur.com/e4GagPX.png)
