@@ -38,3 +38,7 @@ virtual tutor
 
 ## Wireframe of key flows (主な流れのワイヤーフレーム）
 ![ワイヤーフレーム](https://i.imgur.com/e4GagPX.png)
+
+##　参考
+
+[LivePreviewMathJax-jquery](https://genkuroki.github.io/fc2/MathJax/LivePreviewMathJax-jquery.html)
