@@ -14,7 +14,7 @@ class QuestionsController < ApplicationController
   end
 
   def show
-    question = Question.joins(:answers).where(answers: { question_id: question_params[:id] })
+    question = Question.find(question_params[:id]).as_json(include: [:answers])
     render json: question, status: 200
   rescue ActiveRecord::RecordNotFound
     render json: { error: '見つかりませんでした' }, status: 404
